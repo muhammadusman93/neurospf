@@ -1,0 +1,6 @@
+target=neurospf.SymbolicDriver
+classpath=${jpf-symbc}/build/examples/
+sourcepath=${jpf-symbc}/src/examples/
+symbolic.min_double=0.0
+symbolic.max_double=255.0
+symbolic.dp=z3
